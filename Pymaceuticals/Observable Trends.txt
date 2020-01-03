@@ -1,0 +1,9 @@
+Three observable trends from the data:
+
+1. Capomulin shrinks tumors significantly whereas Infubinol, Ketapril, and the placebo don't halt the growth of the tumor.
+
+2. Capomulin also inhibits matastasis significantly better than the other three.
+
+3. Probably due to the above, Capomulin also has a much higher survival rate than the other three.
+
+In sum, I'm putting my mouse on Capomulin.
